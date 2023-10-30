@@ -8,7 +8,7 @@
  g. TAHUN MASUK
  h. NO HANDPHONE
 
-2. Tentukan tipe data yang sesuai dengan kebutuhan data pada column-column tersebut, berikut tipe-tipe data yang saya gunakan :
+3. Tentukan tipe data yang sesuai dengan kebutuhan data pada column-column tersebut, berikut tipe-tipe data yang saya gunakan :
 
 ![image](https://github.com/ArhamSuryaBalad/tugas-pertemuan-2.md/assets/148637316/c10f6539-1b34-480a-a7aa-00ba67872a58)
 
@@ -34,8 +34,10 @@
   ![image](https://github.com/ArhamSuryaBalad/tugas-pertemuan-2.md/assets/148637316/67fa467c-41aa-4928-a817-ad83a3ca5281)
 
 - Berikut hasil akhir dari table yang sudah berisikan data (PADA DBEAVER) :
-
   
 
+  ![image](https://github.com/ArhamSuryaBalad/pertemuan2-basis-data/assets/148637316/c717015a-3b7d-4ba4-854c-202c09abba0d)
+  ![image](https://github.com/ArhamSuryaBalad/pertemuan2-basis-data/assets/148637316/fd50edc9-84cc-42e6-b76f-68451548a232)
 
+CATATAN : DATA PADA COLUMN NIM DAN JUGA NO_HANDPHONE MENJADI DESIMAL DIKARENAKAN SALAH PENGGUNAAN TIPE-DATA SEHARUSNYA MENGGUNAKAN "BIGINT", SUDAH SAYA RUBAH TETAPI TAMPILAN HASILNYA TETAP BENTUK DESIMAL, TERIMAKASIH.
 
